@@ -1,12 +1,34 @@
-👋 Olá! Sou Pablo, um estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade FATEC, apaixonado por desafios e inovação tecnológica.
-Meu entusiasmo pela resolução de problemas me levou a explorar diversas áreas da programação, buscando sempre aprender e aprimorar minhas habilidades.
+# Olá, eu sou o Pablo Henrick 👋 
 
-🎵 Além da programação, sou um amante da música e um entusiasta de tocar instrumentos.
-A música não apenas me inspira, mas também me ensina sobre harmonia, ritmo e criatividade, características que trago para o meu trabalho como desenvolvedor.
+### 🎸 Estudante de ADS | Backend Enthusiast | Network & Infrastructure explorer
 
-💻 Estou constantemente buscando novas oportunidades para aplicar meus conhecimentos em projetos desafiadores e colaborativos. 
-Se você está procurando alguém dedicado, criativo e apaixonado por resolver problemas, ficarei feliz em me conectar e contribuir para projetos incríveis!
+Sou um desenvolvedor em formação (5º semestre de ADS na FATEC) que enxerga o código como uma partitura: tudo precisa estar em harmonia para que o sistema execute a sinfonia perfeita. Meu foco é construir o "esqueleto" e a inteligência das aplicações, garantindo que a comunicação entre os dados seja rápida e segura.
 
-📫 Você pode me encontrar no LinkedIn para mais detalhes sobre minha experiência e habilidades. Vamos criar algo incrível juntos!
-https://www.linkedin.com/in/pablohenrick/
+---
 
+### 🚀 No que estou focado atualmente:
+* 💻 Aprofundando em arquitetura de sistemas **Backend**.
+* 🌐 Explorando protocolos de **Redes** e segurança de infraestrutura.
+* 🎼 Aplicando a criatividade da música na lógica de programação.
+
+---
+
+### 🛠️ Toolbox (Minhas Ferramentas)
+
+| Backend & Logic | Cloud & Networks | Tools & Others |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+
+---
+
+### 📊 My Stats
+![Status do GitHub de Pablo](https://github-readme-stats.vercel.app/api?username=pablohenrick&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohenrick&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Vamos trocar uma ideia?
+* [LinkedIn](https://www.linkedin.com/in/pablohenrick/)
+* 📧 pablo.henrick@email.com (Substitua pelo seu melhor e-mail)
+
+*"A música me ensina o ritmo, o código me ensina a execução."*
