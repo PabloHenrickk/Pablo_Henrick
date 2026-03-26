@@ -33,15 +33,12 @@ Estou dedicando meus estudos diários para dominar a stack Microsoft. Meu foco a
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pablohenrick&show_icons=true&theme=tokyonight" alt="Status de Pablo" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohenrick&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
 ### 📫 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablohenrick/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pablo.moraes01@hotmail.com)
 
 *"A música me ensina o ritmo, o código me ensina a execução."*
